@@ -13,3 +13,15 @@ inter.broker.listener.name=INTERNAL
 ``
 log.dirs=/opt/kafka/logs
 ``
+
+### Cluster
+#### zookeeper
+`` zoo.cfg
+server.0=172.31.1.110:2888:3888
+server.1=172.31.1.34:2888:3888
+``
+
+#### kafka
+``server.properties
+  https://medium.com/workindia-in/running-kafka-on-production-e47d071aa474
+``
