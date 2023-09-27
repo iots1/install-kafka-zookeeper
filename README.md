@@ -22,6 +22,4 @@ server.1=172.31.1.34:2888:3888
 ``
 
 #### kafka
-``server.properties
-  https://medium.com/workindia-in/running-kafka-on-production-e47d071aa474
-``
+https://medium.com/workindia-in/running-kafka-on-production-e47d071aa474
